@@ -1,0 +1,117 @@
+{
+  "name": "Aman Pareek",
+  "email": "amanpareek300@gmail.com",
+  "education": "Bachelor of Computer Applications (BCA)",
+  "skills": [
+    "JavaScript",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "React",
+    "Redux",
+    "HTML",
+    "CSS",
+    "REST APIs",
+    "Web Development",
+    "NPM",
+    "Browser Automation",
+    "FFmpeg",
+    "Automation Pipelines"
+  ],
+  "links": {
+    "github": "https://github.com/Amanp30",
+    "linkedin": "https://www.linkedin.com/in/aman-pareek",
+    "portfolio": "https://portfolio-sigma-two-fkp1ilf336.vercel.app/"
+  },
+  "projects": [
+    {
+      "title": "Chess Edit Pro",
+      "description": "A private automation system that records online chess games using Puppeteer, processes game footage through a rendering pipeline, and generates short-form videos optimized for YouTube Shorts and Instagram Reels using FFmpeg. Automates capture, trimming, formatting, and export for social media publishing.",
+      "skills": [
+        "Node.js",
+        "Puppeteer",
+        "Browser Automation",
+        "FFmpeg",
+        "Video Processing",
+        "Automation Pipelines"
+      ],
+      "links": ["https://www.youtube.com/channel/UCNDf12MAQ01HmyAZwApH8qg"]
+    },
+    {
+      "title": "Hey Birthday",
+      "description": "A web app that stores birthday information and shows whose birthday is coming up next. Lists can be shared and imported to other accounts.",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "REST APIs",
+        "Web Development"
+      ],
+      "links": [
+        "https://github.com/Amanp30/Hey-Birthday-Backend",
+        "https://github.com/Amanp30/Hey-Birthday-frontend"
+      ]
+    },
+    {
+      "title": "Tradebook",
+      "description": "A web application that allows users to track and manage their stock trades. Users can add, edit, and delete trade entries, view trade history, and analyze trading performance over time.",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Redux",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "REST APIs",
+        "Web Development"
+      ],
+      "links": []
+    },
+    {
+      "title": "paymeqr",
+      "description": "An npm package to generate UPI payment QR codes. Includes live demos for QR generation.",
+      "skills": ["JavaScript", "Node.js", "NPM", "UPI Payments"],
+      "links": [
+        "https://www.npmjs.com/package/paymeqr",
+        "https://amanp30.github.io/paymeqr/",
+        "https://amanp30.github.io/paymeqr/generate.html"
+      ]
+    },
+    {
+      "title": "ap-ssg",
+      "description": "A simple static site generator published as an npm package.",
+      "skills": ["JavaScript", "Node.js", "Static Site Generation"],
+      "links": ["https://www.npmjs.com/package/ap-ssg"]
+    },
+    {
+      "title": "easy-back-to-top",
+      "description": "A lightweight npm package that adds a smooth back-to-top button to websites. Distributed via jsDelivr CDN with over 12k yearly requests and around 5k monthly requests.",
+      "skills": ["JavaScript", "DOM Manipulation", "NPM", "CDN"],
+      "links": [
+        "https://www.npmjs.com/package/easy-back-to-top",
+        "https://amanp30.github.io/easy-back-to-top/",
+        "https://www.jsdelivr.com/package/npm/easy-back-to-top"
+      ]
+    },
+    {
+      "title": "ap-sitemap",
+      "description": "An npm package to generate sitemap.xml files programmatically for websites.",
+      "skills": ["JavaScript", "Node.js", "SEO"],
+      "links": ["https://www.npmjs.com/package/ap-sitemap"]
+    },
+    {
+      "title": "PKG Stats Chrome Extension",
+      "description": "A Chrome extension that displays npm package statistics directly inside the browser.",
+      "skills": ["JavaScript", "Chrome Extensions", "API Integration"],
+      "links": ["https://github.com/Amanp30/pkg-stats"]
+    },
+    {
+      "title": "OG Viewer Chrome Extension",
+      "description": "A Chrome extension to preview Open Graph (OG) metadata of websites.",
+      "skills": ["JavaScript", "Chrome Extensions", "Web Metadata"],
+      "links": ["https://github.com/Amanp30/og-viewer"]
+    }
+  ]
+}
